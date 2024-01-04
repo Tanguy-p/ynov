@@ -1,5 +1,7 @@
 # Ceci est mon premier GIT 
-**TOUT PREMIER** 
+**J'espère réussir à suivre les objectifs de ce cours** 
 
-* Je suis en M2 Cyber
-* Chez Ynov
+## Objectifs : 
+
+* Maitrisé et masteurisé GitHub
+* Github Master
